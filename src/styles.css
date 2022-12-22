@@ -22,7 +22,7 @@ body {
   border: 1px solid rgb(78, 78, 139);
 }
 .git a {
-  color: red;
+  color: green;
   display: block;
   text-align: center;
   text-decoration: none;
