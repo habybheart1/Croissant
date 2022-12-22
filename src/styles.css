@@ -1,0 +1,29 @@
+body {
+  background: radial-gradient(circle, rgb(109, 129, 216), rgb(45, 161, 238));
+}
+.des {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.navigation-links {
+  display: flex;
+  justify-content: center;
+}
+.navigation-links a {
+  margin: 20px;
+  border-radius: 4px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.contact-link,
+.photo-link {
+  background: #798174ad;
+  color: blueviolet;
+  border: 1px solid rgb(78, 78, 139);
+}
+.git a {
+  color: red;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
